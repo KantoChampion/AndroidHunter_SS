@@ -1,3 +1,5 @@
+![banner](https://github.com/KantoChampion/AndroidHunter_SS/blob/main/Banner_AH.png?raw=true)
+
 # Android Hunter Game Design Document (GDD)
 
 ## Table of Contents
