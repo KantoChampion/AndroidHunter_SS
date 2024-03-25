@@ -27,6 +27,8 @@
 - **Combat:** Utilizes a mix of ranged and melee combat. Amber can use her pistol for long-range attacks, and acquire upgrades for melee weapons (e.g., electric batons) for close combat.
 - **Stealth Mechanics:** Allows Amber to avoid detection by Husks, using the environment to hide or silently take down enemies.
 
+  [![Image from Gyazo](https://i.gyazo.com/4630df7f1450320d49337f00fd6fb41f.gif)](https://gyazo.com/4630df7f1450320d49337f00fd6fb41f)
+
 ### 2.2 Health and Energy
 - **Health System:** Traditional health bar, with med-kits found in the environment for healing.
 - **Energy System:** Powers special abilities (e.g., temporary speed boost, enhanced melee damage) and requires blood samples collected from defeated Husks.
